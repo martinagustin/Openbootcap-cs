@@ -1,0 +1,15 @@
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.exe
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.deps.json
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.runtimeconfig.json
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.dll
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\bin\Debug\net6.0\Ejercicio1.pdb
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.AssemblyReference.cache
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfoInputs.cache
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.AssemblyInfo.cs
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.csproj.CoreCompileInputs.cache
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.dll
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\obj\Debug\net6.0\refint\Ejercicio1.dll
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.pdb
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\obj\Debug\net6.0\Ejercicio1.genruntimeconfig.cache
+D:\VisualStudio\OpenBC-cs\Ejercicio1\Ejercicio1\obj\Debug\net6.0\ref\Ejercicio1.dll
