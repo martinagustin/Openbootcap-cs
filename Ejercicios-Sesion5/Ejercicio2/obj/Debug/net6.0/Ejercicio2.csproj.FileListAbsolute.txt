@@ -1,0 +1,15 @@
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\bin\Debug\net6.0\Ejercicio2.exe
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\bin\Debug\net6.0\Ejercicio2.deps.json
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\bin\Debug\net6.0\Ejercicio2.runtimeconfig.json
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\bin\Debug\net6.0\Ejercicio2.dll
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\bin\Debug\net6.0\Ejercicio2.pdb
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.AssemblyReference.cache
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\obj\Debug\net6.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfoInputs.cache
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\obj\Debug\net6.0\Ejercicio2.AssemblyInfo.cs
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\obj\Debug\net6.0\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\obj\Debug\net6.0\Ejercicio2.dll
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\obj\Debug\net6.0\refint\Ejercicio2.dll
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\obj\Debug\net6.0\Ejercicio2.pdb
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\obj\Debug\net6.0\Ejercicio2.genruntimeconfig.cache
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion5\Ejercicio2\obj\Debug\net6.0\ref\Ejercicio2.dll
