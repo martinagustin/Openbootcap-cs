@@ -1,0 +1,15 @@
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\bin\Debug\net6.0\Ejercicio3.exe
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\bin\Debug\net6.0\Ejercicio3.deps.json
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\bin\Debug\net6.0\Ejercicio3.runtimeconfig.json
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\bin\Debug\net6.0\Ejercicio3.dll
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\bin\Debug\net6.0\Ejercicio3.pdb
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\obj\Debug\net6.0\Ejercicio3.csproj.AssemblyReference.cache
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\obj\Debug\net6.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\obj\Debug\net6.0\Ejercicio3.AssemblyInfoInputs.cache
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\obj\Debug\net6.0\Ejercicio3.AssemblyInfo.cs
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\obj\Debug\net6.0\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\obj\Debug\net6.0\Ejercicio3.dll
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\obj\Debug\net6.0\refint\Ejercicio3.dll
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\obj\Debug\net6.0\Ejercicio3.pdb
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\obj\Debug\net6.0\Ejercicio3.genruntimeconfig.cache
+D:\VisualStudio\OpenBC-cs\Ejercicios-Sesion4\Ejercicio3\obj\Debug\net6.0\ref\Ejercicio3.dll
